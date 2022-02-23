@@ -1,6 +1,6 @@
 ### Olá, eu sou a Jéssica Daddato 💜
 
-- 🔭 I’m currently working on/ Atualemente estou trabalhando: My first landing Page/na minha primeira Landing Page ...
+- 🔭 I’m currently working on My first landing Page...
 - 🌱 I’m currently learning Python and I'm really enjoying it.
 - 📫 How to reach me: Instagram or LinkedIn
 - 😄 Pronouns/Pronome: Ela/Dela - She/her
